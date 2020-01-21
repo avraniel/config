@@ -1,0 +1,2 @@
+alias myconfig="sudo cp -Rfv ~/DATA/config/{termite,plank,Thunar,neofetch,polybar,openbox,variety,ranger,xfce4} ~/.config"
+
