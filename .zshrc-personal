@@ -1,2 +1,2 @@
-alias myconfig="sudo cp -Rfv ~/DATA/config/{termite,plank,Thunar,neofetch,polybar,openbox,variety,ranger,xfce4} ~/.config"
+alias myconfig="sudo cp -Rfv ~/DATA/config/{termite,plank,Thunar,neofetch,polybar,openbox,variety,ranger,xfce4} ~/.config && cp -Rfv ~/DATA/config/.zshrc-personal ~/ && cp -Rf ~/DATA/config/.zshrc ~/"
 
