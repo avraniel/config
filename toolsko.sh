@@ -141,7 +141,8 @@ cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp ~/DATA/config/.zshrc ~/
 cp ~/DATA/config/.zshrc-personal ~/
-cp -Rf ~/DATA/config/lightdm.conf /etc/lightdm/lightdm.conf
+sudo chsh niel -s /bin/zsh
+sudo cp -Rfv ~/DATA/config/lightdm.conf /etc/lightdm/lightdm.conf
 
 ~/.bin/main/700-fun-apps-for-screenshots-v6.sh
 

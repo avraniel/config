@@ -2,8 +2,8 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Arc-Crimson-Dark"/>
-    <property name="IconThemeName" type="string" value="ePapirus"/>
+    <property name="ThemeName" type="string" value="Arc-Evopop-Dark"/>
+    <property name="IconThemeName" type="string" value="Surfn-Evopop"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -23,8 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="empty"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="Noto Sans 8"/>
-    <property name="MonospaceFontName" type="string" value="Monospace 8"/>
+    <property name="FontName" type="string" value="Roboto Condensed, Light 10"/>
+    <property name="MonospaceFontName" type="string" value="Roboto Condensed, Light 11"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
