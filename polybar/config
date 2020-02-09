@@ -266,9 +266,9 @@ cursor-scroll =
 [bar/mainbar-openbox]
 monitor = ${env:MONITOR}
 monitor-fallback = HDMI1
-width = 90%
+width = 100%
 height = 15
-offset-x = 4%
+offset-x = 0%
 offset-y = 0%
 radius = 0
 fixed-center = true
@@ -305,6 +305,15 @@ font-2 = NotoMono-Regular: size=7;0
 modules-left = ewmh xwindow
 modules-center = date weather
 modules-right =   spotify1
+
+tray-detached = false
+tray-offset-x = 0
+tray-offset-y = 0
+tray-padding = 2
+tray-maxsize = 20
+tray-scale = 1.0
+tray-position = right
+tray-background = ${colors.background}
 
 
 ################################################################################
@@ -372,10 +381,10 @@ modules-right =  networkspeedup networkspeeddown
 [bar/mainbar-bspwm]
 ; = ${env:MONITOR:fallback-value}
 monitor = ${env:MONITOR:HDMI-1}
-width = 90%
-height = 40
-offset-x = 5%
-offset-y = 1%
+width = 100%
+height = 20
+offset-x = 0%
+offset-y = 0%
 radius = 0.0
 fixed-center = true
 bottom = false
@@ -410,7 +419,7 @@ font-2 = NotoMono-Regular: size=10;0
 
 modules-left = bspwm xwindow
 modules-center = release
-modules-right = kernel pavolume memory2 cpu2 date powermenu
+modules-right = weather pavolume memory2 cpu2 date
 
 tray-detached = false
 tray-offset-x = 0
