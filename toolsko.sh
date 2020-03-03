@@ -135,6 +135,7 @@ yay -S paper-icon-theme --noconfirm
 yay -S zafiro-icon-theme --noconfirm
 yay -S xcursor-simpleandsoft --noconfirm
 yay -S popcorntime-bin --noconfirm
+yay -S oh-my-bash-git --noconfirm --needed
 
 cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,variety,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
