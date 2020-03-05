@@ -188,6 +188,7 @@ ex ()
       *.7z)        7z x $1      ;;
       *.deb)       ar x $1      ;;
       *.tar.xz)    tar xf $1    ;;
+      *.tar.zst)   unzstd $1    ;;      
       *)           echo "'$1' cannot be extracted via ex()" ;;
     esac
   else
@@ -201,6 +202,7 @@ ex ()
 [[ -f ~/.bashrc-personal ]] && . ~/.bashrc-personal
 
 neofetch
+
 # Path to your oh-my-bash installation.
 OSH=/usr/share/oh-my-bash
 
@@ -308,3 +310,4 @@ if [[ ! -d $BASH_CACHE_DIR ]]; then
    mkdir $BASH_CACHE_DIR
 fi
 source $OSH/oh-my-bash.sh
+

@@ -126,7 +126,7 @@ yay -S papirus-icon-theme --noconfirm
 yay -S arc-icon-theme --noconfirm
 yay -S adapta-gtk-theme --noconfirm
 
-yay -S breeze-obsidian-cursor-theme --noconfirm
+yay -S xcursor-breeze-serie-obsidian --noconfirm
 
 yay -S faba-icon-theme --noconfirm
 yay -S halo-icons-git --noconfirm
