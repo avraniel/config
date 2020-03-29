@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/hefftorlinux/hefftor_spatial-waves.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101316",
+        "foreground": "#969dcb",
+        "cursor": "#969dcb"
+    },
+    "colors": {
+        "color0": "#101316",
+        "color1": "#23405C",
+        "color2": "#1D4674",
+        "color3": "#29436F",
+        "color4": "#4A4772",
+        "color5": "#1B508A",
+        "color6": "#2B4B87",
+        "color7": "#969dcb",
+        "color8": "#696d8e",
+        "color9": "#23405C",
+        "color10": "#1D4674",
+        "color11": "#29436F",
+        "color12": "#4A4772",
+        "color13": "#1B508A",
+        "color14": "#2B4B87",
+        "color15": "#969dcb"
+    }
+}

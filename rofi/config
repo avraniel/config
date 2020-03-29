@@ -1,0 +1,19 @@
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+rofi.show-icons:                     true
+rofi.color-enabled:                  true
+rofi.width:                          25
+rofi.columns:                        1
+rofi.modi:                           drun,run,ssh
+rofi.padding:                        10
+rofi.lines:                          6
+rofi.font:                           Bitstream Vera Sans:style=Roman 10
+rofi.bw:                             4
+rofi.case-sensitive:                 false
+rofi.separator-style:                dash
+rofi.fullscreen:                     false
+rofi.terminal: 						 rofi-sensible-terminal
+rofi.eh:                             1
+rofi.auto-select:                    true
+rofi.hide-scrollbar:                 true
+rofi.fake-transparency:              true
+rofi.oppacity:                       90

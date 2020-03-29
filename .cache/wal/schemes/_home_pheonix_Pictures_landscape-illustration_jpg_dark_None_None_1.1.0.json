@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pheonix/Pictures/landscape-illustration.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181b33",
+        "foreground": "#cedce1",
+        "cursor": "#cedce1"
+    },
+    "colors": {
+        "color0": "#181b33",
+        "color1": "#C37C83",
+        "color2": "#AA8D90",
+        "color3": "#E0A99C",
+        "color4": "#F3D0B5",
+        "color5": "#92B4CD",
+        "color6": "#9FC0D3",
+        "color7": "#cedce1",
+        "color8": "#909a9d",
+        "color9": "#C37C83",
+        "color10": "#AA8D90",
+        "color11": "#E0A99C",
+        "color12": "#F3D0B5",
+        "color13": "#92B4CD",
+        "color14": "#9FC0D3",
+        "color15": "#cedce1"
+    }
+}

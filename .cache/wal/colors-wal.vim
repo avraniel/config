@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/backgrounds/hefftorlinux/landscape7.png"
+let background = "#0e1025"
+let foreground = "#c1ccd7"
+let cursor     = "#c1ccd7"
+
+" Colors
+let color0  = "#0e1025"
+let color1  = "#6F6883"
+let color2  = "#8D7889"
+let color3  = "#A88B91"
+let color4  = "#AD9094"
+let color5  = "#B3B8BE"
+let color6  = "#86A5C2"
+let color7  = "#c1ccd7"
+let color8  = "#878e96"
+let color9  = "#6F6883"
+let color10 = "#8D7889"
+let color11 = "#A88B91"
+let color12 = "#AD9094"
+let color13 = "#B3B8BE"
+let color14 = "#86A5C2"
+let color15 = "#c1ccd7"

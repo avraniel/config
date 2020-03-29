@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070814",
+        "foreground": "#f3dedf",
+        "cursor": "#f3dedf"
+    },
+    "colors": {
+        "color0": "#070814",
+        "color1": "#6C7AA4",
+        "color2": "#9C6D97",
+        "color3": "#C575AD",
+        "color4": "#B390AA",
+        "color5": "#E09EB5",
+        "color6": "#F0B3C6",
+        "color7": "#f3dedf",
+        "color8": "#aa9b9c",
+        "color9": "#6C7AA4",
+        "color10": "#9C6D97",
+        "color11": "#C575AD",
+        "color12": "#B390AA",
+        "color13": "#E09EB5",
+        "color14": "#F0B3C6",
+        "color15": "#f3dedf"
+    }
+}

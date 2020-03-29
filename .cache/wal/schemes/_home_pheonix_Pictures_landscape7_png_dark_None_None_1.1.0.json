@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/pheonix/Pictures/landscape7.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1025",
+        "foreground": "#c1ccd7",
+        "cursor": "#c1ccd7"
+    },
+    "colors": {
+        "color0": "#0e1025",
+        "color1": "#6F6883",
+        "color2": "#8D7889",
+        "color3": "#A88B91",
+        "color4": "#AD9094",
+        "color5": "#B3B8BE",
+        "color6": "#86A5C2",
+        "color7": "#c1ccd7",
+        "color8": "#878e96",
+        "color9": "#6F6883",
+        "color10": "#8D7889",
+        "color11": "#A88B91",
+        "color12": "#AD9094",
+        "color13": "#B3B8BE",
+        "color14": "#86A5C2",
+        "color15": "#c1ccd7"
+    }
+}

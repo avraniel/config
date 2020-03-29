@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/hefftorlinux/Hefftor_4k_Juno.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c0d",
+        "foreground": "#dfdfe2",
+        "cursor": "#dfdfe2"
+    },
+    "colors": {
+        "color0": "#0a0c0d",
+        "color1": "#276765",
+        "color2": "#525458",
+        "color3": "#6C6D71",
+        "color4": "#7A7F87",
+        "color5": "#9B9DA2",
+        "color6": "#B7BBC8",
+        "color7": "#dfdfe2",
+        "color8": "#9c9c9e",
+        "color9": "#276765",
+        "color10": "#525458",
+        "color11": "#6C6D71",
+        "color12": "#7A7F87",
+        "color13": "#9B9DA2",
+        "color14": "#B7BBC8",
+        "color15": "#dfdfe2"
+    }
+}
