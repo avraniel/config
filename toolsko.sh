@@ -54,6 +54,7 @@ cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,rofi,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp -Rf ~/config_laptop/.config/.cache ~/.cache
+cp -Rf ~/DATA/config/hefftorlinux ~/usr/share/backgrounds/
 cp ~/DATA/config/.zshrc ~/
 cp ~/DATA/config/.zshrc-personal ~/
 #sudo chsh niel -s /bin/zsh
