@@ -46,15 +46,15 @@ yay -S moka-icon-theme --noconfirm
 yay -S paper-icon-theme --noconfirm
 yay -S zafiro-icon-theme --noconfirm
 yay -S xcursor-simpleandsoft --noconfirm
-yay -S hefftor-wallpapers-git --noconfirm --needed
+#yay -S hefftor-wallpapers-git --noconfirm --needed
 yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 
 cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,rofi,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
-cp -Rf ~/config_laptop/.config/.cache ~/.cache
-cp -Rf ~/DATA/config/hefftorlinux ~/usr/share/backgrounds/
+cp -Rf ~/DATA/config/.cache ~/.cache
+#cp -Rf ~/DATA/config/hefftorlinux ~/usr/share/backgrounds/hefftorlinux
 cp ~/DATA/config/.zshrc ~/
 cp ~/DATA/config/.zshrc-personal ~/
 #sudo chsh niel -s /bin/zsh
