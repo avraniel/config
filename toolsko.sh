@@ -50,7 +50,7 @@ yay -S xcursor-simpleandsoft --noconfirm
 yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 
-cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,rofi,ranger} ~/.config
+cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,rofi,variety,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp -Rf ~/DATA/config/.cache ~/.cache
