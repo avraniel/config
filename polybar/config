@@ -358,7 +358,7 @@ font-0 = NotoSans-Regular:size=7;0
 font-1 = fontawesome-regular:size=7:0
 font-2 = NotoMono-Regular: size=7;0
 
-modules-left = memory1 cpu2 temperature2 pavolume
+modules-left = memory1 cpu2 temperature2 
 modules-center = release kernel
 modules-right =  networkspeedup networkspeeddown
 
