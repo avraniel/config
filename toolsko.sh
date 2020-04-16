@@ -44,10 +44,10 @@ yay -S xcursor-simpleandsoft --noconfirm
 yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 
-cp -Rf ~/DATA/config/{termite,neofetch,polybar,openbox,rofi,variety,ranger} ~/.config
+cp -Rf ~/DATA/config/{termite,arcologout,neofetch,polybar,openbox,rofi,variety,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
-cp -Rf ~/DATA/config/.cache ~/.cache
+cp -Rf ~/DATA/config/.cache ~/
 cp ~/DATA/config/.zshrc ~/
 cp ~/DATA/config/.zshrc-personal ~/
 sudo cp -Rfv ~/DATA/config/lightdm.conf /etc/lightdm/lightdm.conf
