@@ -57,4 +57,4 @@ xfsettingsd &
 #flameshot
 flameshot
 
-chromium &
+#chromium &
