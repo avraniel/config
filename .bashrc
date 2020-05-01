@@ -311,3 +311,4 @@ if [[ ! -d $BASH_CACHE_DIR ]]; then
 fi
 source $OSH/oh-my-bash.sh
 
+(cat ~/.cache/wal/sequences &)
