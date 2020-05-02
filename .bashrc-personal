@@ -1,4 +1,3 @@
-alias myconfig="sudo cp -Rfv ~/DATA/config/{termite,glava,arcologout,plank,Thunar,neofetch,polybar,openbox,ranger,rofi,xfce4} ~/.config"
+alias myconfig="sudo cp -Rfv ~/DATA/config/{termite,arcologout,plank,Thunar,neofetch,polybar,openbox,ranger,rofi,xfce4} ~/.config"
 alias reloadbash="sudo cp -Rfv ~/DATA/config/.bashrc ~/.bashrc"
-alias kulay="wal -i /home/niel/DATA/wallpapers/; feh --bg-tile "$(< "${HOME}/.cache/wal/wal")""
-
+alias ku="/home/niel/DATA/config/hue.sh"
