@@ -52,6 +52,7 @@ cp ~/DATA/config/.zshrc ~/
 cp ~/DATA/config/.zshrc-personal ~/
 sudo cp -Rfv ~/DATA/config/lightdm.conf /etc/lightdm/lightdm.conf
 cp -Rfv ~/DATA/config/.bashrc ~/.bashrc
+
 install-sardi-extra-icons-v3.sh
 install-sardi-mint-y-icons-v1.sh
 setup-git.sh
