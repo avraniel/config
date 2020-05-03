@@ -303,7 +303,7 @@ font-1 = fontawesome-regular:size=7:0
 font-2 = NotoMono-Regular: size=7;0
 
 modules-left = ewmh xwindow
-modules-center = date weather 
+modules-center = date weather
 modules-right =   spotify1 powermenu
 
 tray-detached = false
