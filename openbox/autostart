@@ -12,6 +12,7 @@ nitrogen --restore
 
 #tint2 &
 $HOME/.config/polybar/launch.sh &
+$HOME/.config/polybar/pywal.sh &
 
 #(am-conky-session --autostart) &
 
@@ -58,3 +59,5 @@ xfsettingsd &
 flameshot
 
 #chromium &
+
+
