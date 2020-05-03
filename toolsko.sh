@@ -53,6 +53,7 @@ cp ~/DATA/config/.zshrc-personal ~/
 sudo cp -Rfv ~/DATA/config/lightdm.conf /etc/lightdm/lightdm.conf
 cp -Rfv ~/DATA/config/.bashrc ~/.bashrc
 cp -Rfv ~/DATA/config/.xinitrc ~/
+cp -Rfv ~/DATA/config/nitrogen ~/.config
 install-sardi-extra-icons-v3.sh
 install-sardi-mint-y-icons-v1.sh
 setup-git.sh
