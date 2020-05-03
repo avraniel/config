@@ -29,8 +29,8 @@ compositing-underline = over
 compositing-border = over
 
 ; Define fallback values used by all module formats
-format-foreground = #FF0000
-format-background = #00FF00
+;format-foreground = #FF0000
+;format-background = #00FF00
 format-underline =
 format-overline =
 format-spacing =
@@ -40,12 +40,12 @@ format-offset =
 
 [colors]
 ; Nord theme ============
-background = #000000
-foreground = #FFFFFF
-alert = #d08770
-volume-min = #a3be8c
-volume-med = #ebcb8b
-volume-max = #bf616a
+;background = #000000
+;foreground = #FFFFFF
+;alert = #d08770
+;volume-min = #a3be8c
+;volume-med = #ebcb8b
+;volume-max = #bf616a
 ; =======================
 
 ; Gotham theme ==========
@@ -58,15 +58,15 @@ volume-max = #bf616a
 ; =======================
 
 ; INTRCPTR theme ============
-;background = ${xrdb:color0:#222}
+background = ${xrdb:color0:#222}
 ;background = #aa000000
-;background-alt = #444
-;foreground = ${xrdb:color7:#222}
+background-alt = #444
+foreground = ${xrdb:color7:#222}
 ;foreground = #fff
-;foreground-alt = #555
-;primary = #ffb52a
-;secondary = #e60053
-;alert = #bd2c40
+foreground-alt = #555
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
 
 ################################################################################
 ################################################################################
@@ -286,7 +286,7 @@ border-left-size = 1
 border-right-size = 1
 border-top-size = 1
 border-bottom-size = 1
-border-color = #FF0000
+border-color = #FFFFFF
 padding-left = 1
 padding-right = 1
 
@@ -345,7 +345,7 @@ border-left-size = 1
 border-right-size = 1
 border-top-size = 1
 border-bottom-size = 1
-border-color = #FF0000
+border-color = #FFFFFF
 
 padding-left = 1
 padding-right = 1
