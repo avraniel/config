@@ -245,7 +245,8 @@ type = internal/date
 interval = 1.0
 
 ; Format
-date = %A, %d
+#date =  %A, %d
+date = %A, %d %B %Y
 
 ; Label
 label            = %date%
