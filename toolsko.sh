@@ -25,23 +25,23 @@ yay -Syu --noconfirm
 sudo pacman -S --noconfirm --needed flameshot
 sudo pacman -S --noconfirm --needed vivaldi-ffmpeg-codecs
 
-yay -S blockify-git --noconfirm
+#yay -S blockify-git --noconfirm
 yay -S qtwebflix-git --noconfirm
 yay -S polybar --noconfirm
 yay -S dropbox --noconfirm
-yay -S papirus-icon-theme --noconfirm
-yay -S arc-icon-theme --noconfirm
+#yay -S papirus-icon-theme --noconfirm
+#yay -S arc-icon-theme --noconfirm
 yay -S adapta-gtk-theme --noconfirm
 
 yay -S xcursor-breeze-serie-obsidian --noconfirm
 
 yay -S faba-icon-theme --noconfirm
 yay -S halo-icons-git --noconfirm
-yay -S moka-icon-theme --noconfirm
-yay -S paper-icon-theme --noconfirm
+#yay -S moka-icon-theme --noconfirm
+#yay -S paper-icon-theme --noconfirm
 yay -S zafiro-icon-theme --noconfirm
 yay -S xcursor-simpleandsoft --noconfirm
-yay -S popcorntime-bin --noconfirm
+#yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S otf-fira-code --noconfirm --needed
 
