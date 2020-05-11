@@ -37,8 +37,10 @@ yay -S xcursor-simpleandsoft --noconfirm
 yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S otf-fira-code --noconfirm --needed
+yay -S spicetify-cli --noconfirm --needed
 
-cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,openbox,rofi,ranger} ~/.config
+
+cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,openbox,rofi,spicetify,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp -Rf ~/DATA/config/.cache ~/
@@ -49,7 +51,6 @@ cp -Rfv ~/DATA/config/.bashrc ~/.bashrc
 cp -Rfv ~/DATA/config/.xinitrc ~/
 cp -Rfv ~/DATA/config/nitrogen ~/.config
 sh install-sardi-extra-icons-v3.sh
-sh install-sardi-mint-y-icons-v1.sh
 sh setup-git.sh
 
 sudo reboot
