@@ -148,7 +148,7 @@ font-5 = Noto Sans Mono:size=12;0
 ; Modlues
 modules-left   = ra5 ra3  cpu2  ra1 ra3  temperature2 ra1 ra3 networkspeedup ra1 ra3  networkspeeddown ra1 ra3 ra4
 modules-center = la4 la3 la1 kernel la3 la2b release ra2b ra3 memory2 ra1 ra3 ra4
-modules-right  =  spotify la4 la3 la1 uptime la3 la4 la3 la1b  powermenu la6 la4b 
+modules-right  = la4 la3 la1 uptime la3 la4 la3 la1b  powermenu la6 la4b 
 
 
 border-size = 1
@@ -266,20 +266,7 @@ format-background = ${colors.cyan}
 #format-prefix-foreground = #C1B93E
 label =  %output:0:150:%
 
-[module/spotify1]
-;https://github.com/NicholasFeldman/dotfiles/blob/master/polybar/.config/polybar/spotify.sh
-type = custom/script
-exec = ~/.config/polybar/scripts/spotify1.sh
-interval = 1
 
-;format = <label>
-format-foreground = ${colors.black}
-format-background = ${colors.cyan}
-format-padding = 2
-;format-underline = #0f0
-;format-prefix = "  "
-format-prefix-foreground = #0f0
-label = %output:0:150%
 
 ; ==============
 ; Weather Module
