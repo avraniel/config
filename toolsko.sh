@@ -34,10 +34,10 @@ yay -S faba-icon-theme --noconfirm
 yay -S halo-icons-git --noconfirm
 yay -S zafiro-icon-theme --noconfirm
 yay -S xcursor-simpleandsoft --noconfirm
-yay -S popcorntime-bin --noconfirm
+#yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S otf-fira-code --noconfirm --needed
-yay -S spicetify-cli --noconfirm --needed
+
 
 
 cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,openbox,rofi,spicetify,ranger} ~/.config
@@ -51,6 +51,7 @@ cp -Rfv ~/DATA/config/.bashrc ~/.bashrc
 cp -Rfv ~/DATA/config/.xinitrc ~/
 cp -Rfv ~/DATA/config/nitrogen ~/.config
 sh install-sardi-extra-icons-v3.sh
+sh spicetify.sh
 sh setup-git.sh
 
 sudo reboot
