@@ -3,4 +3,4 @@
 ##################################################################################################################
 # Author	:	Raniel Laguna
 
-wal -i ~/DATA/wallpapers; spicetify update; spicetify apply -n;
+wal -c; wal -i /home/niel/DATA/wallpapers/; feh --bg-fill "$(< "${HOME}/.cache/wal/wal")"; spicetify update; spicetify apply -n;
