@@ -40,7 +40,7 @@ yay -S otf-fira-code --noconfirm --needed
 
 
 
-cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,openbox,rofi,spicetify,ranger} ~/.config
+cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,plank,openbox,rofi,spicetify,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp -Rf ~/DATA/config/.cache ~/
