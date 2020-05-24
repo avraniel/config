@@ -34,13 +34,13 @@ yay -S faba-icon-theme --noconfirm
 yay -S halo-icons-git --noconfirm
 yay -S zafiro-icon-theme --noconfirm
 yay -S xcursor-simpleandsoft --noconfirm
-#yay -S popcorntime-bin --noconfirm
+yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S otf-fira-code --noconfirm --needed
 
 
 
-cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,plank,openbox,rofi,spicetify,ranger} ~/.config
+cp -Rf ~/DATA/config/{termite,glava,arcologout,neofetch,polybar,plank,xfce4,openbox,rofi,spicetify,ranger} ~/.config
 cp ~/DATA/config/.bashrc-personal ~/.bashrc-personal
 cp ~/DATA/config/pipes-diagonal ~/.bin
 cp -Rf ~/DATA/config/.cache ~/
