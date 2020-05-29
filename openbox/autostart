@@ -7,6 +7,9 @@
 # Change if issues
 picom -b --config ~/.config/picom.conf &
 
+# start ArcoLinux Welcome  App
+#dex $HOME/.config/autostart/arcolinux-welcome-app.desktop
+
 # Set background image
 #nitrogen --restore
 
@@ -18,7 +21,6 @@ $HOME/.config/polybar/pywal.sh &
 
 #bluetooth#
 #(blueberry-tray) &
-
 
 # install xcape - press super to get menu
 xcape -e 'Super_L=Super_L|space'
