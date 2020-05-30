@@ -37,6 +37,7 @@ yay -S xcursor-simpleandsoft --noconfirm
 yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S otf-fira-code --noconfirm --needed
+yay -S arcolinux-logout-themes-git --noconfirm --needed
 
 
 
