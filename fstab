@@ -5,11 +5,12 @@
 # disks are added and removed. See fstab(5).
 #
 # <file system>             <mount point>  <type>  <options>  <dump>  <pass>
-UUID=f0f09d79-4a1f-444f-89f2-a2d78a3c15c7 /              ext4    defaults,noatime,discard 0 1
-UUID=bbbb5ecf-0bda-416a-8623-e5bcb001c89c swap           swap    defaults,noatime,discard 0 2
-tmpfs                                     /tmp           tmpfs   defaults,noatime,mode=1777 0 0
+UUID=2B0A-7384                            /boot/efi      vfat    umask=0077 0 2
+UUID=9b8de696-2d98-45aa-8fd9-3de3b4d6438c /              ext4    defaults,noatime 0 1
 
 #storage
+
 UUID=dda9fe61-a2b0-4d5c-9076-8fa3cff067b4	/home/niel/DATA	ext4	defaults	0	0
 UUID=e3af8571-cddf-4edc-86f2-5efa6d7fec2e	/run/media/niel/storage	ext4	defaults	0	0
 UUID=b053948d-acab-49d1-bf0e-79986ab1c3f5	/home/niel/Downloads	ext4	defaults	0	0
+
