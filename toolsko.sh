@@ -52,6 +52,7 @@ cp -Rfv ~/DATA/config/.bashrc ~/.bashrc
 cp -Rfv ~/DATA/config/.xinitrc ~/
 cp -Rfv ~/DATA/config/nitrogen ~/.config
 sh install-sardi-extra-icons-v3.sh
+spotify
 sh spicetify.sh
 sh setup-git.sh
 
