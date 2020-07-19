@@ -3,3 +3,5 @@ alias reloadbash="sudo cp -Rfv ~/DATA/config/.bashrc ~/.bashrc"
 alias ku="/home/niel/DATA/config/hue.sh"
 alias micon="pactl load-module module-loopback latency_msec=1"
 alias micoff="pactl unload-module module-loopback"
+alias oras="sudo timedatectl set-ntp on"
+
