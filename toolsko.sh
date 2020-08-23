@@ -38,7 +38,7 @@ yay -S popcorntime-bin --noconfirm
 yay -S oh-my-bash-git --noconfirm --needed
 yay -S ttf-fira-code --noconfirm --needed
 yay -S arcolinux-logout-themes-git --noconfirm --needed
-#yay -S audio-recorder --noconfirm --needed
+yay -S audio-recorder --noconfirm --needed
 
 
 
