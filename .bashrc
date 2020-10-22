@@ -126,6 +126,9 @@ shopt -s dotglob
 shopt -s histappend # do not overwrite history
 shopt -s expand_aliases # expand aliases
 
+#systeminfo
+alias probe="sudo -E hw-probe -all -upload"
+
 #youtube-dl
 alias yta-aac="youtube-dl --extract-audio --audio-format aac "
 alias yta-best="youtube-dl --extract-audio --audio-format best "
@@ -171,6 +174,8 @@ alias gpg-retrieve="gpg2 --keyserver-options auto-key-retrieve --receive-keys"
 #shutdown or reboot
 alias ssn="sudo shutdown now"
 alias sr="sudo reboot"
+
+alias tellme="arcolinux-tellme"
 
 # # ex = EXtractor for all kinds of archives
 # # usage: ex <file>
